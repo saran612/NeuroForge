@@ -19,12 +19,6 @@ ul{
 .glass-bar {
   height: 2.5vh;
   width: calc(100vw - 85px);
-  background: rgba(255, 255, 255, 0.1); 
-  border-radius: 60px;
-  border: 1px solid rgba(255, 255, 255, 0.3); 
-  backdrop-filter: blur(10px); 
-  -webkit-backdrop-filter: blur(10px); 
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); 
   padding: 1rem 2rem;
 }
 .menu_try{
@@ -34,5 +28,6 @@ ul{
   width: 100px;
   height: 35px;
   border-radius: 50px;
-  background-color: black;
+  color: #000;
+  background-color: #f0f0f0;
 }
