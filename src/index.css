@@ -1,7 +1,16 @@
 body {
     display: flex;
     margin: 0;
-    padding: 0.5rem 2.5rem;
-    background-color: #E5E7EB;
-    overflow: hidden;
+    padding: 0;
+    overflow-x: hidden;
+    background-image: url('/wallpaper4.jpg');
+    background-size: cover;        
+    background-repeat: no-repeat;  
+    background-position: center; 
+    height: 100vh;
+}
+a,a:visited{
+    color: #fff;
+    font-size: 1.2rem;
+    text-decoration: none;
 }
