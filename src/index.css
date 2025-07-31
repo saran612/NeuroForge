@@ -11,6 +11,7 @@ body {
 }
 a,a:visited{
     color: #fff;
-    font-size: 1.2rem;
+    font-size: 1rem;
     text-decoration: none;
+    font-family: "Roboto", sans-serif;
 }
