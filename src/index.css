@@ -18,10 +18,10 @@ section{
     transition: all .3s ease;
 }
 .link:hover{
-    color: #669BBC;
+    color: #c0c0c0;
 }
 .bk:hover{
-    background-color: #f0f0f0;
+    background-color: #333;
 }
 .txtbk,.txtbk:visited{
     color: #000;
