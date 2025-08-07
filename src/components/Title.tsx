@@ -7,7 +7,7 @@ function Title(){
             <div className='main_title h1 color'>
                 MEMORA
             </div>
-            <img src='./public/Nciipc.svg' alt='Build for NCIIPC' className='sub_title'></img>
+            <img src='https://raw.githubusercontent.com/saran612/NeuroForge/1360d2a5af427b37164506cf77dabba99a510d73/public/Nciipc.svg' alt='Build for NCIIPC' className='sub_title'></img>
             <div className='tag_line'>
                 <div>When Accuracy Matters — Ask with</div>
                 <div className='color'>MEMORA</div>
