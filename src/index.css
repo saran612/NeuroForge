@@ -1,17 +1,30 @@
 body {
     display: flex;
     margin: 0;
-    padding: 0;
+    padding-top: 0;
     overflow-x: hidden;
-    background-image: url('/wallpaper4.jpg');
-    background-size: cover;        
-    background-repeat: no-repeat;  
-    background-position: center; 
-    height: 100vh;
     background-color: black;
 }
-a,a:visited{
+section{
+    margin-top: 10px;
+}
+
+
+.link,.link:visited{
     color: #fff;
+    font-size: 1rem;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    transition: all .3s ease;
+}
+.link:hover{
+    color: #669BBC;
+}
+.bk:hover{
+    background-color: #f0f0f0;
+}
+.txtbk,.txtbk:visited{
+    color: #000;
     font-size: 1rem;
     text-decoration: none;
     font-family: "Roboto", sans-serif;
